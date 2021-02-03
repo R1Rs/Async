@@ -10,10 +10,10 @@
         "error",
         "LabeledStatement",
         "WithStatement"
-      ]
-    },
-    "quotes": [
-      "error",
-      "single"
-  ]
+      ],
+      "quotes": [
+        "error",
+        "single"
+    ]
+    }
   }
